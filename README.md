@@ -2,7 +2,6 @@
 
 Billetera digital educativa desarrollada paso a paso para aprender fundamentos de desarrollo web, modularidad y control de versiones con GitHub.
 
-## 📌 Lecciones realizadas
 
 1. **Estructura HTML inicial**
    - Creación de pantallas: `menu.html`, `sendmoney.html`, `receive.html`.
@@ -36,6 +35,6 @@ Billetera digital educativa desarrollada paso a paso para aprender fundamentos d
 
 ---
 
-## 🚀 Objetivo
+ Objetivo
 Gestionar el saldo y movimientos de una billetera digital de forma clara y educativa, aplicando buenas prácticas de desarrollo web y control de versiones.
 
