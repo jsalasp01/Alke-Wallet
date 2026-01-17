@@ -1,6 +1,6 @@
 # Proyecto Alke Wallet
 
-Billetera digital educativa desarrollada paso a paso para aprender fundamentos de desarrollo web, modularidad y control de versiones con GitHub.
+Billetera digital desarrollada paso a paso para aprender fundamentos de desarrollo web, modularidad y control de versiones con GitHub.
 
 
 1. **Estructura HTML inicial**
